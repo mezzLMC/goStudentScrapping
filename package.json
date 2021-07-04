@@ -1,0 +1,21 @@
+{
+  "name": "gostudentscraping",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.2",
+    "phantomjs": "^2.1.7",
+    "puppeteer": "^10.0.0",
+    "puppeteer-element2selector": "0.0.3",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
